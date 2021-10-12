@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj": {}
+    "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
+    "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
+        "projectPath": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalStorage\\Netnew\\Domain\\obj\\",
+        "outputPath": "d:\\PersonalStorage\\Netnew\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj": {
+    "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
+        "projectPath": "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalStorage\\Netnew\\Persistence\\obj\\",
+        "outputPath": "d:\\PersonalStorage\\Netnew\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj"
+              "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj"
               }
             }
           }

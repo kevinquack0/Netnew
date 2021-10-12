@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {}
+    "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
+    "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
+        "projectPath": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalStorage\\Netnew\\Domain\\obj\\",
+        "outputPath": "d:\\PersonalStorage\\Netnew\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
