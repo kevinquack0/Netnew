@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "d:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
+      "projectPath": "D:\\PersonalStorage\\Netnew\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "d:\\PersonalStorage\\Netnew\\Persistence\\obj\\",
+      "outputPath": "D:\\PersonalStorage\\Netnew\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -978,8 +978,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
-              "projectPath": "d:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj"
+            "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\PersonalStorage\\Netnew\\Domain\\Domain.csproj"
             }
           }
         }
