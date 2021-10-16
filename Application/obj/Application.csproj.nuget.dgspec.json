@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[8.1.0, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
             "MediatR.Extensions.Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[3.0.0, )"
