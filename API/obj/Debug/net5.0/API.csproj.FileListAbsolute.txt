@@ -71,3 +71,15 @@ D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.D
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\FluentValidation.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
