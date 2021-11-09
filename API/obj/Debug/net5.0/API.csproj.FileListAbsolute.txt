@@ -83,3 +83,5 @@ D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.pdb
