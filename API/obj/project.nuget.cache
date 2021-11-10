@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SWBRbk7SIo8m3UTNXtJykjuwtraPQP/zgewgu6nUEWBWoq8RTW7ekPlCqHatNmrz5ggQmtylJyGNgTENpkh1SQ==",
+  "dgSpecHash": "HE3rZiL9j+w1MwJde2eICUpAMeZ7yVctDqwtmXqxdCDsoxt/eeDjjfyHuZoq723qe5XVoGSk/0hd4Wm3/DWq2g==",
   "success": true,
   "projectFilePath": "D:\\PersonalStorage\\Netnew\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\cloudinarydotnet\\1.15.0\\cloudinarydotnet.1.15.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
@@ -59,6 +60,7 @@
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

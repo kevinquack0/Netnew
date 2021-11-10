@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v+fCDxt9PmWsYtHk8IedouXQjxnjGYLm5QHiNmV4NjKCxMWOeg+bAByxelWYDmn5JDgpx9J6H8sHOMSstWUQbg==",
+  "dgSpecHash": "FVlkKlGRovFyYhNS+c7r/jKsN1gSGZKn4Q5Bc7wpjU6rCPvE18y7fhFa4AXd7GY/ZJHxiJJqzer35JgCmlzBWg==",
   "success": true,
   "projectFilePath": "D:\\PersonalStorage\\Netnew\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\cloudinarydotnet\\1.15.0\\cloudinarydotnet.1.15.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
@@ -37,6 +38,7 @@
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

@@ -29,6 +29,18 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "CloudinaryDotNet/1.15.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netstandard1.3/CloudinaryDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/CloudinaryDotNet.dll": {}
+        }
+      },
       "FluentValidation/10.1.0": {
         "type": "package",
         "compile": {
@@ -399,6 +411,15 @@
           "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -623,6 +644,21 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "CloudinaryDotNet/1.15.0": {
+      "sha512": "PoXxXPKXI484Pwj06Ur65PGkslU5YWwkpBttUxvYVOGQDm9UJ//ukFpmOBGY9Nx+3guPFl9AIXVfMcK3FoPlIw==",
+      "type": "package",
+      "path": "cloudinarydotnet/1.15.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cloudinarydotnet.1.15.0.nupkg.sha512",
+        "cloudinarydotnet.nuspec",
+        "lib/net45/CloudinaryDotNet.dll",
+        "lib/net45/CloudinaryDotNet.xml",
+        "lib/netstandard1.3/CloudinaryDotNet.dll",
+        "lib/netstandard1.3/CloudinaryDotNet.xml"
       ]
     },
     "FluentValidation/10.1.0": {
@@ -1221,6 +1257,37 @@
         "version.txt"
       ]
     },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.0.4": {
       "sha512": "f5U8Sw0lRym8tTraJ2zm6OqcDrcrEVvcKDtYlKSLs3Ox9SerkwkPXiFXb/uiW0g2tJdUw6oBhsxI/l5DoRxXMg==",
       "type": "package",
@@ -1531,7 +1598,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Application >= 1.0.0"
+      "Application >= 1.0.0",
+      "CloudinaryDotNet >= 1.15.0"
     ]
   },
   "packageFolders": {
@@ -1574,6 +1642,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "CloudinaryDotNet": {
+            "target": "Package",
+            "version": "[1.15.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

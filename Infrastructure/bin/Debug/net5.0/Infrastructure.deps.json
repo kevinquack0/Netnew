@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "Infrastructure/1.0.0": {
         "dependencies": {
-          "Application": "1.0.0"
+          "Application": "1.0.0",
+          "CloudinaryDotNet": "1.15.0"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -36,6 +37,17 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "CloudinaryDotNet/1.15.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.3/CloudinaryDotNet.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
           }
         }
       },
@@ -301,6 +313,14 @@
         }
       },
       "Microsoft.Extensions.Primitives/5.0.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.0.4": {
         "dependencies": {
           "SQLitePCLRaw.core": "2.0.4",
@@ -466,6 +486,13 @@
       "sha512": "sha512-dQyGCAYcHbGuimVvCMu4Ea2S1oYOlgO9XfVdClmY5wgygJMZoS57emPzH0qNfknmtzMm4QbDO9i237W5IDjU1A==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512"
+    },
+    "CloudinaryDotNet/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PoXxXPKXI484Pwj06Ur65PGkslU5YWwkpBttUxvYVOGQDm9UJ//ukFpmOBGY9Nx+3guPFl9AIXVfMcK3FoPlIw==",
+      "path": "cloudinarydotnet/1.15.0",
+      "hashPath": "cloudinarydotnet.1.15.0.nupkg.sha512"
     },
     "FluentValidation/10.1.0": {
       "type": "package",
@@ -683,6 +710,13 @@
       "sha512": "sha512-cI/VWn9G1fghXrNDagX9nYaaB/nokkZn0HYAawGaELQrl8InSezfe9OnfPZLcJq3esXxygh3hkq2c3qoV3SDyQ==",
       "path": "microsoft.extensions.primitives/5.0.0",
       "hashPath": "microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.0.4": {
       "type": "package",

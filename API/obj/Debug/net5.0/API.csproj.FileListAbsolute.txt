@@ -85,3 +85,5 @@ D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dl
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.pdb
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Newtonsoft.Json.dll
