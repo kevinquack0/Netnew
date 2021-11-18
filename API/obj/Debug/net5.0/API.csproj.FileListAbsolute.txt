@@ -87,3 +87,5 @@ D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Infrastructure.pdb
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\CloudinaryDotNet.dll
 D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Npgsql.dll
+D:\PersonalStorage\Netnew\API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
